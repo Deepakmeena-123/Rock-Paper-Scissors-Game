@@ -67,21 +67,21 @@
 
 ## Project Structure
 
-```text
-Rock-Paper-Scissors-Game/
-│
-├── IMAGES/
-│   └── images/
-│       ├── rock.png
-│       ├── paper.png
-│       └── scissors.png
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+   ```text
+   Rock-Paper-Scissors-Game/
+   │
+   ├── IMAGES/
+   │   └── images/
+   │       ├── rock.png
+   │       ├── paper.png
+   │       └── scissors.png
+   │
+   ├── index.html
+   ├── style.css
+   ├── script.js
+   ├── README.md
+      
 
-```text
 ## Game Rules
  - Rock beats Scissors
 
