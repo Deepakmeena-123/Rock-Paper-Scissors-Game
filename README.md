@@ -50,8 +50,8 @@
    ```sh
    cd Rock-Paper-Scissors-Game
 3. Open the game:
-   Open index.html in your web browser
-   (or use Live Server in VS Code for best experience).
+   - Open index.html in your web browser
+   - (or use Live Server in VS Code for best experience).
 
 ## Usage
 
@@ -65,21 +65,6 @@
 
  5. Scores are updated automatically
 
-## Project Structure
-   ```sh
-   Rock-Paper-Scissors-Game/
-   │
-   ├── IMAGES/
-   │   └── images/
-   │       ├── rock.png
-   │       ├── paper.png
-   │       └── scissors.png
-   │
-   ├── index.html
-   ├── style.css
-   ├── script.js
-   ├── README.md
-      
 ## Game Rules
  - Rock beats Scissors
 
@@ -105,4 +90,19 @@
 ## License
 
 This project is open-source and available under the MIT License.
+
+## Project Structure
+   ```text
+   Rock-Paper-Scissors-Game/
+   │
+   ├── IMAGES/
+   │   └── images/
+   │       ├── rock.png
+   │       ├── paper.png
+   │       └── scissors.png
+   │
+   ├── index.html
+   ├── style.css
+   ├── script.js
+   ├── README.md
  
