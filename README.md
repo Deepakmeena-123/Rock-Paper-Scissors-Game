@@ -30,4 +30,83 @@
  - Responsive and simple UI
 
  - Beginner-friendly code structure
+
+## Technology Stack
+
+ - HTML – Structure of the game
+
+ - CSS – Styling and layout
+
+ - JavaScript – Game logic and interactivity
+
+## Getting Started
+ 
+ To run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Deepakmeena-123/Rock-Paper-Scissors-Game.git
+2. Navigate to the project folder:
+   ```sh
+   cd Rock-Paper-Scissors-Game
+3. Open the game:
+   Open index.html in your web browser
+   (or use Live Server in VS Code for best experience).
+
+## Usage
+
+ 1. Open the game in your browser
+
+ 2. Click on Rock, Paper, or Scissors
+
+ 3. The computer makes a random choice
+
+ 4. The result is displayed instantly
+
+ 5. Scores are updated automatically
+
+## Project Structure
+   ```text
+   ## Project Structure
+
+```text
+Rock-Paper-Scissors-Game/
+│
+├── IMAGES/
+│   └── images/
+│       ├── rock.png
+│       ├── paper.png
+│       └── scissors.png
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+## Game Rules
+ - Rock beats Scissors
+
+ - Scissors beats Paper
+
+ - Paper beats Rock
+
+ - Same choices result in a draw
+
+## Contributing
+ Contributions are welcome!
+
+ If you’d like to improve this project:
+
+ - Fork the repository
+
+ - Create a new branch
+
+ - Make your changes
+
+ - Submit a pull request
+
+## License
+
+This project is open-source and available under the MIT License.
  
