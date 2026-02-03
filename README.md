@@ -12,10 +12,10 @@
  - [Technology Stack](#technology-stack)
  - [Getting Started](#getting-started)
  - [Usage](#usage)
- - [Project Structure](#project-structure)
  - [Game Rules](#game-rules)
  - [Contributing](#contributing)
  - [License](#license)
+ - [Project Structure](#project-structure)
 
  ## Features
 
