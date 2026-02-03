@@ -66,8 +66,6 @@
  5. Scores are updated automatically
 
 ## Project Structure
-
-   ```text
    Rock-Paper-Scissors-Game/
    │
    ├── IMAGES/
