@@ -66,6 +66,7 @@
  5. Scores are updated automatically
 
 ## Project Structure
+   ```sh
    Rock-Paper-Scissors-Game/
    │
    ├── IMAGES/
@@ -79,7 +80,6 @@
    ├── script.js
    ├── README.md
       
-
 ## Game Rules
  - Rock beats Scissors
 
