@@ -81,7 +81,7 @@ Rock-Paper-Scissors-Game/
 ├── script.js
 └── README.md
 
-
+```text
 ## Game Rules
  - Rock beats Scissors
 
